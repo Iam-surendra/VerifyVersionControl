@@ -1,0 +1,16 @@
+{
+  "name": "git-test1",
+  "version": "0.0.0",
+  "description": "GitTest1",
+  "main": "app.js",
+  "author": {
+    "name": "v-suthot"
+  },
+  "devDependencies": {
+    "@types/jasmine": "^2.8.7",
+    "@types/node": "^10.0.4",
+    "protractor": "^5.3.1",
+    "protractor-beautiful-reporter": "^1.2.1",
+    "typescript": "^2.8.3"
+  }
+}

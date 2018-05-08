@@ -1,0 +1,22 @@
+{
+        "launchUrl": "https://www.onenote.com/",
+        "oneNoteLoginEmailId" : "t-samj@edunotebook.onmicrosoft.com",
+        "oneNoteLoginPassword" : "!!abc123",
+        "distributeNewSectionName" :"New Section",
+        "lmsList": ["Blackbaud", "Canvas", "LiveGrades","Microsoft Teams","Schoology"],
+    
+        "blackBaudTenantUrl":"https://integration.myschoolapp.com",
+        "blackBaudUserName" :"Alice",
+        "blackBaudPassword":"onenote",
+        "blackBaudManageClassesButtonLink":"https://integration.myschoolapp.com/app#login",
+        "blackBaudMapCourseName":"Advanced Biology 101 1 - 1st",
+        "blackBaudAssignmentPageTitle": "BlackBaudAssignmentPage",
+  
+        "canvasTenantUrl" : "https://onenote.instructure.com",
+        "canvasEmail":"ivanhan@mtholfsen43.onmicrosoft.com",
+        "canvasPassword" :"password",
+        "canvasManageClassesButtonLink":"https://onenote.instructure.com/",
+        "canvasMapCourseName": "Chemistry 101",
+        "canvasPageTitle" : "CanvasAssignmentPage"  
+        
+}
